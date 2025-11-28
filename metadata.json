@@ -1,0 +1,5 @@
+{
+  "name": "St. Margaret Pharmacy POS",
+  "description": "A comprehensive Pharmacy POS and Inventory System featuring a medical-themed UI, real-time inventory tracking, sales management, and dashboard analytics. Built as a React SPA to simulate the requested functionality.",
+  "requestFramePermissions": []
+}
